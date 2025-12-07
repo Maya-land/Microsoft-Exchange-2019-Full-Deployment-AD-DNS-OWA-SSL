@@ -1,2 +1,0 @@
-# Microsoft-Exchange-2019-Full-Deployment-AD-DNS-OWA-SSL
-Projet de virtualisation visant à déployer un environnement complet Microsoft comprenant un Domain Controller, DNS, et un serveur Exchange Server 2019. L’objectif était de configurer un environnement fonctionnel permettant la gestion des boîtes mail, l’accès OWA/ECP, la configuration des namespaces et certificats, et l’administration globale.
