@@ -1,0 +1,7 @@
+1x VM DC (ADDS + DNS)
+
+1x VM Exchange Server 2019
+
+Réseau interne VMware
+
+NAT/Bridge pour accès Internet
